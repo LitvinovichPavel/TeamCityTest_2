@@ -26,6 +26,23 @@ define("ContactPageV2", [], function() {
 				"index": 6
 			},
 			{
+				"operation": "insert",
+				"name": "Email952b0f30-9bcb-47a7-b78c-b648bb0a927a",
+				"values": {
+					"layout": {
+						"colSpan": 12,
+						"rowSpan": 1,
+						"column": 0,
+						"row": 4,
+						"layoutName": "ContactGeneralInfoBlock"
+					},
+					"bindTo": "Email"
+				},
+				"parentName": "ContactGeneralInfoBlock",
+				"propertyName": "items",
+				"index": 7
+			},
+			{
 				"operation": "merge",
 				"name": "JobTabContainer",
 				"values": {
@@ -52,6 +69,10 @@ define("ContactPageV2", [], function() {
 				"values": {
 					"order": 7
 				}
+			},
+			{
+				"operation": "remove",
+				"name": "AccountEmail"
 			}
 		]/**SCHEMA_DIFF*/
 	};
