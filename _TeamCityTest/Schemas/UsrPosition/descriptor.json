@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "12ba7802-e47e-48dc-8c94-6b7e78ddbbf9",
+    "Name": "UsrPosition",
+    "ModifiedOnUtc": "\/Date(1663935440000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Позиция"
+  }
+}

@@ -2,7 +2,8 @@
 <Resources Culture="ru-RU">
 	<Group Type="String">
 		<Items>
-			<Item Name="Columns.UsrPosition.Caption" Value="Позиция" />
+			<Item Name="Caption" Value="Позиция" />
+			<Item Name="EventsProcessSchema.Caption" Value="Бизнес-процесс" />
 		</Items>
 	</Group>
 </Resources>

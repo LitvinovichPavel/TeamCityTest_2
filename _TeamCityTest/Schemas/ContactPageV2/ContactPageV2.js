@@ -26,6 +26,25 @@ define("ContactPageV2", [], function() {
 				"index": 5
 			},
 			{
+				"operation": "insert",
+				"name": "LOOKUPc5325033-2a65-4108-8a99-f844248a57ab",
+				"values": {
+					"layout": {
+						"colSpan": 24,
+						"rowSpan": 1,
+						"column": 0,
+						"row": 6,
+						"layoutName": "ProfileContainer"
+					},
+					"bindTo": "UsrPosition",
+					"enabled": true,
+					"contentType": 5
+				},
+				"parentName": "ProfileContainer",
+				"propertyName": "items",
+				"index": 6
+			},
+			{
 				"operation": "merge",
 				"name": "JobTabContainer",
 				"values": {
