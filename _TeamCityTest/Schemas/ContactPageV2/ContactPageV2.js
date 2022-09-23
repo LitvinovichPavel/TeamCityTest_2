@@ -28,6 +28,23 @@ define("ContactPageV2", [], function() {
 				"index": 6
 			},
 			{
+				"operation": "insert",
+				"name": "Citya6150f3c-31c9-4f6c-9ee1-1bf9c25ec69b",
+				"values": {
+					"layout": {
+						"colSpan": 24,
+						"rowSpan": 1,
+						"column": 0,
+						"row": 7,
+						"layoutName": "ProfileContainer"
+					},
+					"bindTo": "City"
+				},
+				"parentName": "ProfileContainer",
+				"propertyName": "items",
+				"index": 7
+			},
+			{
 				"operation": "merge",
 				"name": "JobTabContainer",
 				"values": {

@@ -3,6 +3,7 @@
 	<Group Type="String">
 		<Items>
 			<Item Name="Images.72a10ccc-5746-4ee1-9a4d-61fb14d53899.Caption" Value="EnrichCloudIcon" />
+			<Item Name="LocalizableStrings.CompletenessHint.Caption" Value="رسالة للمستخدم1" />
 			<Item Name="LocalizableStrings.CompletenessHint.Value" Value="نسبة اكتمال ملف التعريف. انقر فوق المؤشر لمعاينة البيانات التي تحتاج لإكمال ملف التعريف." />
 			<Item Name="LocalizableStrings.CompletenessLabel.Value" Value="ملف تعريف كامل" />
 			<Item Name="LocalizableStrings.ConfirmedCaption.Value" Value="مؤكد" />

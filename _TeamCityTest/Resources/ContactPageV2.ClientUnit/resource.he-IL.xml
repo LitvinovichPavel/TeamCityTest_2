@@ -3,6 +3,7 @@
 	<Group Type="String">
 		<Items>
 			<Item Name="Images.72a10ccc-5746-4ee1-9a4d-61fb14d53899.Caption" Value="EnrichCloudIcon" />
+			<Item Name="LocalizableStrings.CompletenessHint.Caption" Value="הודעה למשתמש 1" />
 			<Item Name="LocalizableStrings.CompletenessHint.Value" Value="אחוז השלמת הפרופיל. לחץ על המחוון כדי להציג את הנתונים הדרושים להשלמת הפרופיל." />
 			<Item Name="LocalizableStrings.CompletenessLabel.Value" Value="פרופיל הושלם" />
 			<Item Name="LocalizableStrings.ConfirmedCaption.Value" Value="מאושר" />
