@@ -2,7 +2,7 @@
   "Descriptor": {
     "UId": "8f02f49e-8361-2d7d-6711-3ac79e2ffcde",
     "Name": "UsrTestTeamCity_add_new_data",
-    "ModifiedOnUtc": "\/Date(1663916102000)\/",
+    "ModifiedOnUtc": "\/Date(1663923922000)\/",
     "InstallType": 0,
     "Schema": {
       "UId": "7e52cf9a-a2d2-49a4-b82e-75cac6c6dd55",
@@ -10,17 +10,17 @@
     },
     "Columns": [
       {
-        "ColumnUId": "736c30a7-c0ec-4fa9-b034-2552b319b633",
-        "IsForceUpdate": false,
+        "ColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
+        "IsForceUpdate": true,
         "IsKey": false,
-        "ColumnName": "Name",
+        "ColumnName": "Description",
         "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
       },
       {
-        "ColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
-        "IsForceUpdate": false,
+        "ColumnUId": "736c30a7-c0ec-4fa9-b034-2552b319b633",
+        "IsForceUpdate": true,
         "IsKey": false,
-        "ColumnName": "Description",
+        "ColumnName": "Name",
         "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
       },
       {
