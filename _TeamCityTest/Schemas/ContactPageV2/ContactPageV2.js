@@ -10,20 +10,18 @@ define("ContactPageV2", [], function() {
 		diff: /**SCHEMA_DIFF*/[
 			{
 				"operation": "insert",
-				"name": "LOOKUP7bbf8874-38f2-4099-a5ac-e195a019877b",
+				"name": "UsrForCheckb6e97726-42fa-467f-9ef3-00a8252cac1d",
 				"values": {
 					"layout": {
-						"colSpan": 24,
+						"colSpan": 12,
 						"rowSpan": 1,
 						"column": 0,
-						"row": 6,
-						"layoutName": "ProfileContainer"
+						"row": 3,
+						"layoutName": "ContactGeneralInfoBlock"
 					},
-					"bindTo": "UsrForCheck",
-					"enabled": true,
-					"contentType": 3
+					"bindTo": "UsrForCheck"
 				},
-				"parentName": "ProfileContainer",
+				"parentName": "ContactGeneralInfoBlock",
 				"propertyName": "items",
 				"index": 6
 			},
