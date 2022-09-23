@@ -10,37 +10,37 @@ define("ContactPageV2", [], function() {
 		diff: /**SCHEMA_DIFF*/[
 			{
 				"operation": "insert",
-				"name": "UsrForCheckb6e97726-42fa-467f-9ef3-00a8252cac1d",
+				"name": "Emailf9b52e0c-6fa3-43e7-a35e-dc3f23aadbde",
 				"values": {
 					"layout": {
-						"colSpan": 12,
+						"colSpan": 24,
 						"rowSpan": 1,
 						"column": 0,
-						"row": 3,
-						"layoutName": "ContactGeneralInfoBlock"
-					},
-					"bindTo": "UsrForCheck"
-				},
-				"parentName": "ContactGeneralInfoBlock",
-				"propertyName": "items",
-				"index": 6
-			},
-			{
-				"operation": "insert",
-				"name": "Email952b0f30-9bcb-47a7-b78c-b648bb0a927a",
-				"values": {
-					"layout": {
-						"colSpan": 12,
-						"rowSpan": 1,
-						"column": 0,
-						"row": 4,
-						"layoutName": "ContactGeneralInfoBlock"
+						"row": 5,
+						"layoutName": "ProfileContainer"
 					},
 					"bindTo": "Email"
 				},
-				"parentName": "ContactGeneralInfoBlock",
+				"parentName": "ProfileContainer",
 				"propertyName": "items",
-				"index": 7
+				"index": 5
+			},
+			{
+				"operation": "insert",
+				"name": "UsrForCheck1d6fc108-620b-4b33-a937-f3dc6ad1c50d",
+				"values": {
+					"layout": {
+						"colSpan": 24,
+						"rowSpan": 1,
+						"column": 0,
+						"row": 6,
+						"layoutName": "ProfileContainer"
+					},
+					"bindTo": "UsrForCheck"
+				},
+				"parentName": "ProfileContainer",
+				"propertyName": "items",
+				"index": 6
 			},
 			{
 				"operation": "merge",
