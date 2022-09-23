@@ -26,23 +26,6 @@ define("ContactPageV2", [], function() {
 				"index": 5
 			},
 			{
-				"operation": "insert",
-				"name": "UsrForCheck1d6fc108-620b-4b33-a937-f3dc6ad1c50d",
-				"values": {
-					"layout": {
-						"colSpan": 24,
-						"rowSpan": 1,
-						"column": 0,
-						"row": 6,
-						"layoutName": "ProfileContainer"
-					},
-					"bindTo": "UsrForCheck"
-				},
-				"parentName": "ProfileContainer",
-				"propertyName": "items",
-				"index": 6
-			},
-			{
 				"operation": "merge",
 				"name": "JobTabContainer",
 				"values": {

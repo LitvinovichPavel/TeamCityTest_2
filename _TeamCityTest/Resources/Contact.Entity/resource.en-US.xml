@@ -2,7 +2,7 @@
 <Resources Culture="en-US">
 	<Group Type="String">
 		<Items>
-			<Item Name="Columns.UsrForCheck.Caption" Value="Для проверки тим сити" />
+			<Item Name="Columns.UsrPosition.Caption" Value="Для проверки тим сити" />
 		</Items>
 	</Group>
 </Resources>
