@@ -24,20 +24,6 @@
         "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
       },
       {
-        "ColumnUId": "91f76f42-e24d-4ebd-95b3-5b5517e917c3",
-        "IsForceUpdate": false,
-        "IsKey": false,
-        "ColumnName": "SysPageSchemaUId",
-        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
-      },
-      {
-        "ColumnUId": "8b099885-e3bc-4585-920d-a497f2611e2c",
-        "IsForceUpdate": false,
-        "IsKey": false,
-        "ColumnName": "SysLookup",
-        "DataTypeValueUId": "b295071f-7ea9-4e62-8d1a-919bf3732ff2"
-      },
-      {
         "ColumnUId": "547bff8d-f717-4316-846c-3ff1f0e36e6e",
         "IsForceUpdate": false,
         "IsKey": false,
@@ -50,6 +36,20 @@
         "IsKey": false,
         "ColumnName": "Description",
         "DataTypeValueUId": "c0f04627-4620-4bc0-84e5-9419dc8516b1"
+      },
+      {
+        "ColumnUId": "91f76f42-e24d-4ebd-95b3-5b5517e917c3",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "SysPageSchemaUId",
+        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
+      },
+      {
+        "ColumnUId": "8b099885-e3bc-4585-920d-a497f2611e2c",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "SysLookup",
+        "DataTypeValueUId": "b295071f-7ea9-4e62-8d1a-919bf3732ff2"
       }
     ]
   }

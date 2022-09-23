@@ -8,6 +8,7 @@
       "Name": "BaseLookup"
     },
     "ManagerName": "EntitySchemaManager",
-    "Caption": "Для проверки ТимСити"
+    "Caption": "Для проверки ТимСити",
+    "DependsOn": []
   }
 }

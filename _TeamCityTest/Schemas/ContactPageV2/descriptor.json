@@ -9,6 +9,7 @@
     },
     "ExtendParent": true,
     "ManagerName": "ClientUnitSchemaManager",
-    "Caption": "Схема отображения карточки контакта"
+    "Caption": "Display schema - Contact card",
+    "DependsOn": []
   }
 }

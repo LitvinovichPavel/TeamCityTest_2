@@ -1,16 +1,4 @@
 #############################
-# SVN artifacts
-#############################
-.svn
-
-#############################
-# JS ingnore list
-#############################
-node_modules/
-package-lock.json
-package.json
-
-#############################
 # Igrone language resources.
 #############################
 *.uk-UA.xml
@@ -80,8 +68,3 @@ HomePage/
 OpenIdAuth/
 RelationshipDesigner/
 ServiceDesigner/
-
-#############################
-# CMD helpers ignore list
-#############################
-/*.bat

@@ -9,6 +9,7 @@
     },
     "ExtendParent": true,
     "ManagerName": "ClientUnitSchemaManager",
-    "Caption": "Схема раздела: \"Контакты\""
+    "Caption": "Contacts section",
+    "DependsOn": []
   }
 }
