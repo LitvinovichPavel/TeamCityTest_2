@@ -45,6 +45,23 @@ define("ContactPageV2", [], function() {
 				"index": 6
 			},
 			{
+				"operation": "insert",
+				"name": "UsrPosition386098b8-2c86-4b05-9e78-b945dd5c998c",
+				"values": {
+					"layout": {
+						"colSpan": 24,
+						"rowSpan": 1,
+						"column": 0,
+						"row": 7,
+						"layoutName": "ProfileContainer"
+					},
+					"bindTo": "UsrPosition"
+				},
+				"parentName": "ProfileContainer",
+				"propertyName": "items",
+				"index": 7
+			},
+			{
 				"operation": "merge",
 				"name": "JobTabContainer",
 				"values": {
